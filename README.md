@@ -1,4 +1,4 @@
-# ParallelComputing
+# Senior Design
 
 ## Professional Biography
 
