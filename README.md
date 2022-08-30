@@ -18,8 +18,8 @@
   * Secured Price Industries Development Contract based on success of Proof of Concept
   * Built Selenium testing infrastructure to automate web browser testing saving manual test run time by over 90%
   * Instituted Page Object Model design structure for reusability and scalability with 70% less Lines of Code
-  
- * Software Engineering Intern, Myriad Genetics (Neuroscience), Mason, OH (1 semester):
+
+* Software Engineering Intern, Myriad Genetics (Neuroscience), Mason, OH (1 semester):
   * Designed, developed, and deployed 9 full stack applications and services using C# and .NET
   * Provided maintenance, enhancements, and fixed 7 bugs to enhance existing system functionality
   * Adhered to the agile (scrum) software team structure, microservices architecture and development lifecycle
