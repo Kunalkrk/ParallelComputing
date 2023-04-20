@@ -1,8 +1,10 @@
+<base target="_blank">
+
 # Senior Design
 
 ## Table of Contents
 
-1. [Professional Biography](https://github.com/Kunalkrk/SeniorDesign/blob/main/ProfessionalBiography.md){target="_blank"}
+1. [Professional Biography](https://github.com/Kunalkrk/SeniorDesign/blob/main/ProfessionalBiography.md)
 2. [Project Description](https://github.com/Kunalkrk/SeniorDesign/blob/main/Project-Description.md)
 3. [Test Plan and Results](https://github.com/Kunalkrk/SeniorDesign/blob/main/TestPlan.md)
 4. [Spring PPT Presentation](https://docs.google.com/presentation/d/1hpCTVpuqlhDYpJtbH3zVWwCaSvv8Bow_eG0KBHfq-yg/edit?usp=sharing)
